@@ -1,5 +1,5 @@
 # Real-Time Financial Advisor App
-
+deployed: https://financialadvisorapp.streamlit.app/
 ## Overview
 
 This Financial Advisor App is a Streamlit-based web application that provides users with real-time stock analysis, price predictions, and portfolio management tools. It's designed to assist users in making informed decisions about their investments by offering stock recommendations and portfolio insights.
