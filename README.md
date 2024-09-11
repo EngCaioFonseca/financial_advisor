@@ -1,6 +1,7 @@
 # Real-Time Financial Advisor App
 
 This Streamlit application provides real-time financial advice and portfolio management tools, including stock price tracking, prediction, and portfolio visualization.
+![fin_assistance_app](https://github.com/user-attachments/assets/b14852d7-6dfa-4c78-bb9d-83ed3bb00e7b)
 
 ## Features
 
